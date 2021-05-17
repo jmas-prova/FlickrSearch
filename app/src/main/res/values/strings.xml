@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FlickrSearch</string>
+    <string name="title_activity_search">Search Activity</string>
+    <string name="title_activity_photo_detail">Photo Detail</string>
+    <string name="browse_image_description">Downloaded flickr photo</string>
+    <string name="activity_search">Search</string>
+    <string name="searchable_hint">Enter Photo tags</string>
+    <string name="error404">No photos found. Please change search parameters by taping on the search icon.</string>
+
 </resources>
